@@ -1,0 +1,20 @@
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+
+h3 {
+    color: rgb(92, 206, 183)
+}
+
+.my_class {
+    color:
+        rgb(160, 60, 6)
+}
+
+
+/*group seletor*/
+h5,
+p {
+    coloR: aquamarine
+}
